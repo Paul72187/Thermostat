@@ -1,3 +1,16 @@
+
+
+body {
+    background-color: rgb(238, 214, 237);
+    font-family: "Audiowide", sans-serif;
+}
+
+.center {
+    padding: 70px 0;
+    
+    text-align: center;
+  }
+
 .low-usage {
     color: green;
 }
